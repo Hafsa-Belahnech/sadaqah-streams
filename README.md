@@ -1,3 +1,8 @@
+# <img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/bc907721-a346-443e-b3e1-920fc6a784f4" />
+
+
+
+
 # Sadaqah Streams
 Connected Solidarity &amp; Smart Resilience for Flood-Affected Cities — Ramadania Hackathon 2026
 
