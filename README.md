@@ -14,9 +14,10 @@ In early February 2026, severe flooding hit northwestern Morocco, particularly a
 Traditional charity helps in the moment but doesn’t prevent future disasters.
 
 ## 💡 Our Solution
-A digital platform that lets citizens give **Sadaqah** to:
+> A digital platform that lets citizens give **Sadaqah** to:
 - Provide **immediate relief** (food, water, shelter)
 - Fund **smart resilience projects** (rain gardens, retention basins, solar pumps)
+> Intelligent Flood Risk Prediction Platform: 
 - Assisting citizens and municipalities in anticipating flood risks ahead of heavy rainfall.
 
 ## ✨ Key Innovation: Sadaqah Streams Score™
@@ -24,7 +25,7 @@ Every donor sees their real impact:
 > “Your Sadaqah secured **800L of clean water** and gave **50** blankets and other clothes!”
 
 ## 🤖 AI-Powered Flood Risk Predictor (Demo Concept)
-- **Goal**: Help citizens and municipalities anticipate flood risk *before* heavy rain.
+- **Goal**: Empowering communities to act ahead of heavy rainfall through predictive flood risk alerts.
 - **How?** A lightweight AI model (pre-trained, no training needed) that uses:
   - Public weather forecasts (e.g., from OpenWeather API)
   - Historical flood data (open datasets, e.g., from national meteorological agencies)
